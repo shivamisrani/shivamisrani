@@ -41,6 +41,6 @@ If you're looking for a dedicated WordPress developer who can transform your vis
 - 📫 **How to reach me**: [shivam.israni@example.com](mailto:shivam.israni12@gmail.com)
 - 💼 **Portfolio**: [My Portfolio](https://noto.li/hn3KD7)
 - 🌐 **LinkedIn**: [Shivam Israni](https://linkedin.com/in/shivam-israni)
-- 📸 **Instagram**: [![Instagram](https://www.instagram.com/techy__shivam)
+- 📸 **Instagram**: [Instagram](https://www.instagram.com/techy__shivam)
 - 🎯 **Hire me on Fiverr**: [Fiverr Profile](https://www.fiverr.com/shivamisrani12)
 
