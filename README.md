@@ -38,8 +38,8 @@ A clone of the UsabilityHub website to demonstrate proficiency in replicating co
 
 If you're looking for a dedicated WordPress developer who can transform your vision into reality or optimize your existing website for speed, performance, and security, feel free to reach out!
 
-- 📫 **How to reach me**: [shivam.israni@example.com](mailto:shivam.israni12@gmail.com)
-- 💼 **Portfolio**: [My Portfolio](https://noto.li/hn3KD7)
+- 📫 **How to reach me**: [shivam.israni@example.com](shivam.israni12@gmail.com)
+- 💼 **Portfolio**: [My Portfolio](https://shivamisrani.framer.website/)
 - 🌐 **LinkedIn**: [Shivam Israni](https://linkedin.com/in/shivam-israni)
 - 📸 **Instagram**: [Instagram](https://www.instagram.com/techy__shivam)
 - 🎯 **Hire me on Fiverr**: [Fiverr Profile](https://www.fiverr.com/shivamisrani12)
